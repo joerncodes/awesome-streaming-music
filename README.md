@@ -13,3 +13,4 @@ A list of artists that have cleared their music to be played on streams. In case
 | [**nervous\_testpilot**](https://twitter.com/mode7games) | Electronica | Link to [nervoustestpilot.com](nervoustestpilot.com) | [Twitter Response](https://twitter.com/JoernDraws/status/1362001582007713793) |
 | [**Pertubator**](https://twitter.com/The_Perturbator) | Synthwave / Dark Synth | - | [Twitter post](https://twitter.com/The_Perturbator/status/1271145377740316672) |
 | [**Tobu**](https://twitter.com/tobuofficial) | House | - | [Response on Twitter](https://twitter.com/JoernDraws/status/1358391713212096512) |
+| [**Wraithwalker**](https://twitter.com/wraithwalker_) | Synth / Dark Synth | - | [Twitter post](https://twitter.com/wraithwalker_/status/1270082985774235650) |
