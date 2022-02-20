@@ -5,6 +5,7 @@ A list of artists that have cleared their music to be played on streams. In case
 
 | Artist | Genre | Conditions | Proof |
 |---|---|--|--|
+| [**Anamanaguchi**](https://twitter.com/anamanaguchi) | Chiptune / 8-bit | - | [Response on Twitter](https://twitter.com/ajtucker22/status/1304333764668076035) |
 | [**Ghostfeeder**](https://twitter.com/ghostfeeder) | Synthrock / Electropop | Display artist/song | [Response on Twitter](https://twitter.com/JoernDraws/status/1492785906771709953) |
 | [**Hyper Potions**](https://twitter.com/hyperpotions/) | Chiptune / Electronic | [Songs from playlist](https://open.spotify.com/playlist/3zR71nMKdPoFo46SYKxFhf?si=QX5rzmPwSvGAuVqEbupYBQ&nd=1) | [Twitter post](https://twitter.com/hyperpotions/status/1065452254323515392) |
 | [**KEYGEN CHURCH**](https://twitter.com/KEYGENCHURCH) | Chiptune | - | [Response on Twitter](https://twitter.com/JazzyDoes/status/1270768980806926337) |
